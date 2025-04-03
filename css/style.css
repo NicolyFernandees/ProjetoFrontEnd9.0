@@ -1,0 +1,13 @@
+.body{
+    background-color: rgb(241, 215, 179);
+}
+
+button{
+    cursor: pointer;
+    color: blue;
+    background-color: rgb(194, 164, 221);
+    width: 30%;
+    height: 50px;
+    border-radius: 20px;
+
+}
